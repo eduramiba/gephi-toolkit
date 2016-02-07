@@ -1,0 +1,1 @@
+Simple example for preview sketch and node selection custom plugin with gephi-toolkit 0.9+
